@@ -1,2 +1,2 @@
 # firstrepo
-test repositry
+test repositry tutorial purpose.
